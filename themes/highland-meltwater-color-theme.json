@@ -166,7 +166,7 @@
 		"statusBar.background": "#51b1f1",
 		"statusBar.debuggingBackground": "#e7963b",
 		"statusBar.debuggingForeground": "#ffffff",
-		"statusBar.foreground": "#ffffff",
+		"statusBar.foreground": "#2c3e50",
 		"statusBar.noFolderBackground": "#1faece",
 		"statusBar.noFolderForeground": "#ffffff",
 		// "statusBar.background": "#459b9f99",
