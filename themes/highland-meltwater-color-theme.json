@@ -1055,6 +1055,29 @@
 				"foreground": "#0099C9"
 			}
 		},
+		// begin Rust syntax
+		{
+			"name": "[Rust] Storage",
+			"scope": "source.rust keyword.operator.sigil.rust",
+			"settings": {
+				"foreground": "#25a75f"
+			}
+		},
+		{
+			"name": "[Rust] Storage",
+			"scope": "source.rust storage.modifier.mut.rust",
+			"settings": {
+				"foreground": "#0099C9"
+			}
+		},
+		{
+			"name": "[Rust] Storage",
+			"scope": "source.rust support.constant.core.rust",
+			"settings": {
+				"foreground": "#25a75f"
+			}
+		},
+		// end Rust syntax
 		{
 			"name": "[SCSS] Punctuation Definition Interpolation Bracket Curly",
 			"scope": [
@@ -1185,6 +1208,6 @@
 			"settings": {
 				"foreground": "#3c8E5C"
 			}
-		}
+		},
 	]
 }
