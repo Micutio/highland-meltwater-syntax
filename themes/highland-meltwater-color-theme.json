@@ -1060,7 +1060,7 @@
 			"name": "[Rust] Storage",
 			"scope": "source.rust keyword.operator.sigil.rust",
 			"settings": {
-				"foreground": "#25a75f"
+				"foreground": "#d16388"
 			}
 		},
 		{
