@@ -1064,14 +1064,22 @@
 			}
 		},
 		{
-			"name": "[Rust] Storage",
+			"name": "[Rust] Mutable Modifier",
 			"scope": "source.rust storage.modifier.mut.rust",
 			"settings": {
 				"foreground": "#0099C9"
 			}
 		},
 		{
-			"name": "[Rust] Storage",
+			"name": "[Rust] Core Type",
+			"scope": "source.rust storage.type.core.rust",
+			"settings": {
+				"foreground": "#4eac78",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "[Rust] Core Constant",
 			"scope": "source.rust support.constant.core.rust",
 			"settings": {
 				"foreground": "#25a75f"
