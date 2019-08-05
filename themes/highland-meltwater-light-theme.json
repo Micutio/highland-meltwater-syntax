@@ -195,7 +195,7 @@
 		"tab.unfocusedInactiveForeground": "#30303666",
 		"terminal.ansiBlack": "#f5f5f1",
 		"terminal.ansiBlue": "#0099c9",
-		"terminal.ansiBrightBlack": "#e4e4e7",
+		"terminal.ansiBrightBlack": "#444447",
 		"terminal.ansiBrightBlue": "#0099c9",
 		"terminal.ansiBrightCyan": "#3bc2bb",
 		"terminal.ansiBrightGreen": "#3c8e5c",
