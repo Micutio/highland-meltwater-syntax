@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "highland-meltwater",
+                "label": "highland-meltwater light",
                 "uiTheme": "vs",
-                "path": "./themes/highland-meltwater-color-theme.json"
+                "path": "./themes/highland-meltwater-light-theme.json"
+            },
+            {
+                "label": "highland-meltwater dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/highland-meltwater-dark-theme.json"
             }
         ]
     }
