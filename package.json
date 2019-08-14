@@ -2,7 +2,7 @@
     "name": "highland-meltwater-syntax",
     "displayName": "highland-meltwater-syntax",
     "description": "A syntax color theme for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.36.0"
     },
