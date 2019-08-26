@@ -148,22 +148,22 @@
 		"tab.border": "#2e353f",
 		"tab.inactiveBackground": "#2e353f",
 		"tab.inactiveForeground": "#ffffff",
-		"terminal.ansiBlack": "#ffffff",
-		"terminal.ansiBlue": "#ffffff",
-		"terminal.ansiBrightBlack": "#ffffff",
-		"terminal.ansiBrightBlue": "#ffffff",
-		"terminal.ansiBrightCyan": "#ffffff",
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiBlue": "#2748d8",
+		"terminal.ansiBrightBlack": "#525252",
+		"terminal.ansiBrightBlue": "#0099ff",
+		"terminal.ansiBrightCyan": "#4ed6ff",
 		"terminal.ansiBrightGreen": "#47a86c",
 		"terminal.ansiBrightRed": "#ed3b69",
-		"terminal.ansiBrightWhite": "#ffffff",
-		"terminal.ansiBrightYellow": "#fffae9",
-		"terminal.ansiCyan": "#ffffff",
-		"terminal.ansiGreen": "#fffae3",
+		"terminal.ansiBrightWhite": "#d1d1d1",
+		"terminal.ansiBrightYellow": "#e9dbaf",
+		"terminal.ansiCyan": "#3798b1",
+		"terminal.ansiGreen": "#4ec08b",
 		"terminal.ansiRed": "#f16950",
-		"terminal.ansiWhite": "#ffffff",
+		"terminal.ansiWhite": "#aaaaaa",
 		"terminal.ansiYellow": "#ffe1a3",
 		"terminal.background": "#373f4b",
-		"terminal.foreground": "#fffae2",
+		"terminal.foreground": "#9e9e9e",
 		"terminalCursor.background": "#111721",
 		"terminalCursor.foreground": "#47a86c",
 		"titleBar.activeBackground": "#373f4b",
@@ -518,6 +518,13 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#e4e4e7"
+			}
+		},
+		{
+			"name": "[C/CPP] Punctuation Comment",
+			"scope": "punctuation.definition.comment",
+			"settings": {
+				"foreground": "#606066"
 			}
 		},
 		{
